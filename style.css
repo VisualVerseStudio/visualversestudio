@@ -550,8 +550,9 @@ a {
     border-radius: 5px;
   }
   #video > video {
+    margin:2vmax;
     width: 97.5vw;
-    height: 100vh;
+    height: 80vh;
   }
   .grid-2-about-1 > p,
   .grid-2-about-2 > p {
