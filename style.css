@@ -561,9 +561,9 @@ a {
     font-weight: 600;
 }
   #video > video {
-    margin:2vmax;
+    margin-top:2vmax;
     width: 97.5vw;
-    height: 80vh;
+    height: 95vh;
   }
   .grid-2-about-1 > p,
   .grid-2-about-2 > p {
