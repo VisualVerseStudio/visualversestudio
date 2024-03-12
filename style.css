@@ -562,6 +562,7 @@ a {
 }
   #video > video {
     margin-top:1vmax;
+    margin-left: 0.5vmax;
     width: 97.5vw;
     height: 95vh;
   }
