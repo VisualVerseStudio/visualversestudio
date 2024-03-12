@@ -562,9 +562,9 @@ a {
 }
   #video > video {
     margin-top:1vmax;
-    margin-left: 0.5vmax;
+    margin-left:0.45vmax;
     width: 97.5vw;
-    height: 95vh;
+    height: 94vh;
   }
   .grid-2-about-1 > p,
   .grid-2-about-2 > p {
