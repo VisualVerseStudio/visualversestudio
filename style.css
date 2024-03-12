@@ -555,7 +555,7 @@ a {
   }
   #video > p{
     display: flex;
-    color: #fffffe;
+    color:#00000f;
     font-size: 5vmax;
     justify-content: center;
     font-weight: 600;
