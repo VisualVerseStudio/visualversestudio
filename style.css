@@ -554,11 +554,11 @@ a {
     border-radius: 5px;
   }
   #video > p{
-    display: flex;
-    color:#00000f;
-    font-size: 5vmax;
+    display: initial;
+    color:#fefefe;
+    font-size: 4.5vmax;
     justify-content: center;
-    font-weight: 600;
+    font-weight: 620;
 }
   #video > video {
     margin:2vmax;
