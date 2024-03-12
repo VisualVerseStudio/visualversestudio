@@ -34,6 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("email").value = "";
     document.getElementById("country").value = "";
     document.getElementById("city").value = "";
+    document.getElementById("contact_number").value = "";
     document.getElementById("message-box").value = "";
   });
 });
@@ -41,6 +42,7 @@ function refresh() {
   document.getElementById("email").value = "";
   document.getElementById("country").value = "";
   document.getElementById("city").value = "";
+  document.getElementById("contact_number").value = "";
   document.getElementById("message-box").value = "";
 }
 gsap.to("#home-content", {
