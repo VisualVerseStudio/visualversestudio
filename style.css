@@ -554,7 +554,7 @@ a {
     border-radius: 5px;
   }
   #video > p{
-display: flex;
+    display: flex;
     color: #fefefe;
     font-size: 5vmax;
     justify-content: center;
