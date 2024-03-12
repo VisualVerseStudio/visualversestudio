@@ -548,6 +548,8 @@ a {
 
 @media (max-width: 560px) {
   #video {
+    display:flex;
+    flex-direction: column;
     background: #007bff;
     border-radius: 5px;
   }
